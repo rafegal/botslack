@@ -21,3 +21,6 @@ Exemplo de um bot para Slack utilizando Python, Django e Celery
   
 - **Métodos Slack API**
   - *https://api.slack.com/methods*
+
+- **Criando BOT no Slack**
+  - *https://pt.slideshare.net/RafaelFelipeGalleani/chatbot-slack-python*
