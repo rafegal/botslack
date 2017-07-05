@@ -14,4 +14,10 @@ Exemplo de um bot para Slack utilizando Python, Django e Celery
   
 - **Alterações**
   - *Em core/constants.py inserir o Token do Bot na constante TOKEN_SLACK_API*
-  - *Em core/constants.py inserir o canal de comunicação a ser utilizado na constante TEAM_CHANNEL*
+  - *Em core/constants.py inserir o canal de comunicação a ser utilizado na constante TEAM_CHANNE  
+  
+- **Interface utilizada para Slack API**
+  - *Slacker: https://pypi.python.org/pypi/slacker/*
+  
+- **Métodos Slack API**
+  - *https://api.slack.com/methods*
